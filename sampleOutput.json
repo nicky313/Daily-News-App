@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+    {
+    "source": {
+    "id": "fox-sports",
+    "name": "Fox Sports"
+    },
+    "author": "FOX Sports",
+    "title": "USFL Draft: How compensatory picks work",
+    "description": "The USFL Draft is unlike any other in sports. Here's how the compensatory picks work.",
+    "url": "http://www.foxsports.com/stories/usfl/usfl-draft-compensatory-pick",
+    "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/1408/814/passedwide.jpg?ve=1&tl=1",
+    "publishedAt": "2022-02-23T01:47:35Z",
+    "content": "The inaugural 2022 USFL Draft truly is a draft unlike any other.\r\nOne of the unique aspects of the USFL Draft is the way the rounds are formatted, as different rounds are assigned to different positi… [+1097 chars]"
+    },
+    {
+    "source": {
+    "id": "espn",
+    "name": "ESPN"
+    },
+    "author": "Brooke PryorESPN Staff Writer ",
+    "title": "Brian Flores says he declined to sign Miami Dolphins' NDA in order to speak out on treatment by team",
+    "description": "Brian Flores told HBO's Real Sports that he declined to sign a non-disparagement agreement presented by Dolphins owner Stephen Ross so he could speak out about his treatment in Miami.",
+    "url": "http://espn.go.com/nfl/story/_/id/33349141/brian-flores-says-declined-sign-miami-dolphins-nda-order-speak-racial-discrimination",
+    "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0201%2Fr968706_1296x729_16%2D9.jpg",
+    "publishedAt": "2022-02-22T21:44:00Z",
+    "content": "In his dismissal by the Miami Dolphins last month, coach Brian Flores declined to sign a non-disparagement agreement presented by team owner Stephen Ross, Flores told Bryant Gumbel of HBO's \"Real Spo… [+1416 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-times",
+    "name": "The Washington Times"
+    },
+    "author": "The Washington Times http://www.washingtontimes.com",
+    "title": "Latest Quizzes",
+    "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+    "url": "https://www.washingtontimes.com/quiz/",
+    "urlToImage": null,
+    "publishedAt": "2021-02-10T03:52:37.2719772Z",
+    "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    }
+    ]
+    }
